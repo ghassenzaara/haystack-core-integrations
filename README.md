@@ -6,8 +6,8 @@
 |------------------------------------------------------------------------------------ | -------: | -------: | -------: | -------: | -------: | --------: |
 | src/haystack\_integrations/components/retrievers/falkor\_db/cypher\_retriever.py    |       30 |        0 |        6 |        0 |     100% |           |
 | src/haystack\_integrations/components/retrievers/falkor\_db/embedding\_retriever.py |       31 |        0 |        4 |        0 |     100% |           |
-| src/haystack\_integrations/document\_stores/falkor\_db/document\_store.py           |      214 |        0 |       58 |        0 |     100% |           |
-| **TOTAL**                                                                           |  **275** |    **0** |   **68** |    **0** | **100%** |           |
+| src/haystack\_integrations/document\_stores/falkor\_db/document\_store.py           |      215 |        0 |       58 |        0 |     100% |           |
+| **TOTAL**                                                                           |  **276** |    **0** |   **68** |    **0** | **100%** |           |
 
 
 ## Setup coverage badge
